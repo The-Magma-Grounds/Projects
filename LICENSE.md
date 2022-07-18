@@ -1,3 +1,3 @@
 # Copyright 2022 The Magma Grounds. All Rights Reserved.
-You're **NOT** permitted to touch anything within my modpacks. If you're a mod dev/programmer and you want to help with fixing
-an issue within any of my projects, then you should ask me first. I'm also **NOT** responsible for any crashes, etc. that occur.
+Do **not** touch anything within my projects. If you wish to contribute, please ask me on my Discord, or by opening an issue here. I'm
+also **not** responsibe for any issues that occur. They're usually caused by dead/unsupported mods or OptiFine, which I have no control over.
